@@ -6,7 +6,7 @@
 # Информация о проекте
 Euclid - моя самая первая работа простой и не сложный макет. Проект содержит не много анимации, слайдер, табы, аккардион.
 # Запуск страницы 
-Перейдите по [ссылке](https://vanxelsing123.github.io/Euclid/)
+Перейдите по [ссылке](https://vanxelsing123.github.io/Euclid/) GitHub pages
 
 # Превью
 ![CLD](https://github.com/Vanxelsing123/Euclid/assets/135120438/ea53655a-e380-4d13-9726-cf73184760bd)
